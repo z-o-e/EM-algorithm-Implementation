@@ -1,0 +1,35 @@
+>> sys_7582_hw4
+
+mean for the first Gaussian mu_1 is:
+
+mu_1 =
+
+    6.7515
+    0.4307
+
+mean for the second Gaussian mu_2 is:
+
+mu_2 =
+
+    0.1831
+    3.1892
+
+covariance for the first Gaussian sig_1 is:
+
+sig_1 =
+
+    1.4108   -0.2189
+   -0.2189    0.5106
+
+covariance for the second Gaussian sig_2 is:
+
+sig_2 =
+
+    1.4863   -1.4708
+   -1.4708    2.3604
+
+the probablistic parameter p is:
+
+p =
+
+    0.4987
