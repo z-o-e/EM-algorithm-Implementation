@@ -1,5 +1,3 @@
->> sys_7582_hw4
-
 mean for the first Gaussian mu_1 is:
 
 mu_1 =
